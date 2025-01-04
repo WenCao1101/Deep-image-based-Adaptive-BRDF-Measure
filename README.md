@@ -24,5 +24,5 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ### POSTER
-![prediction example](figs/GRAPP_2025_239.pdf)
+![prediction example](figs/Deep_image_based_Adaptive_BRDF_Measure_poster-1.png)
 
