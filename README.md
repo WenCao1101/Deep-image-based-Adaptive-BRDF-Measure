@@ -7,7 +7,7 @@ Example Open source of our GRAPP 2025 paper "Deep image-based Adaptive BRDF Meas
 
 [**Poster**](figs/GRAPP_2025_239.pdf)
 
-[**Online Result Viewer**](https://arxiv.org/abs/2410.02917)
+[**Arxiv**](https://arxiv.org/abs/2410.02917)
 
 
 
