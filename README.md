@@ -20,7 +20,8 @@ Efficient and accurate measurement of the bi-directional reflectance distributio
 ### Citation
 If you find our work useful in your research, please consider citing:
 ```
-Cao, W. (2025). Deep Image-Based Adaptive BRDF Measure.  In Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1: GRAPP, HUCAPP and IVAPP, ISSN 2184-4321, pages 292-299. 
+Cao, W. (2025). Deep Image-Based Adaptive BRDF Measure.
+In Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1: GRAPP, HUCAPP and IVAPP, ISSN 2184-4321, pages 292-299. 
  
 ```
 
