@@ -28,5 +28,3 @@ In Proceedings of the 20th International Joint Conference on Computer Vision, Im
 ### POSTER
 ![prediction example](figs/Deep_image_based_Adaptive_BRDF_Measure_poster-1.png)
 
-### POSTER
-![prediction example](figs/Compressive Spectral__VISAPP 2.pptx)
