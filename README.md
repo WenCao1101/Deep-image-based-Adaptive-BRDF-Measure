@@ -4,7 +4,7 @@ Example Open source of our GRAPP 2025 paper "Deep image-based Adaptive BRDF Meas
 ![prediction example](figs/adaptive_j.png)
 
 [**Paper**](https://arxiv.org/abs/2410.02917)
-[**Presention**](figs/Compressive Spectral__VISAPP 2.pptx)
+
 [**Poster**](figs/GRAPP_2025_239.pdf)
 
 [**Arxiv**](https://arxiv.org/abs/2410.02917)
@@ -28,3 +28,5 @@ In Proceedings of the 20th International Joint Conference on Computer Vision, Im
 ### POSTER
 ![prediction example](figs/Deep_image_based_Adaptive_BRDF_Measure_poster-1.png)
 
+### POSTER
+![prediction example](figs/Compressive Spectral__VISAPP 2.pptx)
